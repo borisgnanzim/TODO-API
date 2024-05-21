@@ -1,0 +1,2 @@
+php artisan jwt:secret
+jwt-auth secret [sHVvzrKw4d7t8gEPVBa1N0VCTNsrMb5ESxpFmJEZBcv45SGJUrg3THxqar9miIe0] set successfully.
